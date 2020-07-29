@@ -1,0 +1,24 @@
+Cover Page 1
+Index 1
+Abstact 1
+Glossary 1-2
+Introduction 1
+Signals 
+	Define
+	classification
+	Formulae/maths
+	Application
+DFT
+	define/formulae
+	Properties
+	Application
+Noise
+	effects
+Noisy waveform restoration
+	Methodology
+	Code
+	Explaination
+	Importance
+Real world problems with noise and solution
+Conclusion
+Reference
