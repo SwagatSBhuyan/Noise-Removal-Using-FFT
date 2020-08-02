@@ -1,4 +1,4 @@
-Project Name:  Properties of Discrete Fourier Transform (DFT), and Noisy Waveform Restoration using DFT
+# Properties of Discrete Fourier Transform (DFT), and Noisy Waveform Restoration using DFT
 
 Language Used: MATLAB, OCTAVE
 
